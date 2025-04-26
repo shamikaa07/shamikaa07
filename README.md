@@ -22,3 +22,14 @@
 <p align="left">
   Building projects with 💻, 📊, ☁️
 </p>
+<!-- Start of full lilac section -->
+<div align="center" style="background-color:#E6E6FA; padding: 100px; border-radius: 10px;">
+
+<!-- Profile Picture Centered -->
+<img src="https://avatars.githubusercontent.com/u/171373173?v=4" width="180" height="180" style="border-radius: 50%;" alt="Shamika's Profile Picture" />
+
+<!-- Greeting -->
+<h1>Hi 👋, I'm Shamika!</h1>
+
+</div>
+
