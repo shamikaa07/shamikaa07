@@ -8,21 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Shamika</h1>
 <h3 align="center">M.S. Information Systems | Data Analytics Enthusiast | Cloud Explorer ☁️</h3>
-
-<p align="center">
-  <img src="https://some-fancy-gradient-banner.com" width="100%" />
-</p>
-
-<h1 align="center">Hi, I'm Shamika!</h1>
-
-<p align="right">
-  <img src="https://some-right-side-image.com" width="200" />
-</p>
-
-<p align="left">
-  Building projects with 💻, 📊, ☁️
-</p>
-<!-- Start of full lilac section -->
+<!-- Full lilac background box -->
 <div align="center" style="background-color:#E6E6FA; padding: 100px; border-radius: 10px;">
 
 <!-- Profile Picture Centered -->
