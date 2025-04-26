@@ -45,4 +45,9 @@
 
 ⭐ Fun Fact: I believe **Data + Creativity = Magic!** ✨
 
+<p align="center">
+  <img src="https://your-banner-image-link.com" alt="Welcome Banner" width="100%" />
+</p>
+
+
 
