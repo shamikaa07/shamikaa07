@@ -36,4 +36,12 @@
 ### 📫 Connect with Me
 - ✉️ Email: [shamikaa06@gmail.com](mailto:shamikaa06@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/shamikaa07](https://linkedin.com/in/shamikaa07)
+### 🎓 Certifications
+
+- 📜 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)  
+- 📜 [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)  
+- 📜 [Tableau Data Analyst Certification](https://www.tableau.com/learn/certification)  
+- 📜 [SQL for Data Science - Coursera](https://www.coursera.org/learn/sql-for-data-science)
+
+
 
