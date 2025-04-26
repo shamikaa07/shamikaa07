@@ -9,19 +9,15 @@
 <h1 align="center">Hi 👋, I'm Shamika</h1>
 <h3 align="center">M.S. Information Systems | Data Analytics Enthusiast | Cloud Explorer ☁️</h3>
 
-<!-- Lilac background effect using banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x250/dda0dd/ffffff?text=Welcome+to+My+Profile!" alt="Lilac Banner" width="100%" />
-</p>
+<!-- Fake full lilac background -->
+<div align="center" style="background-color: #E6E6FA; padding: 50px 20px; border-radius: 15px;">
 
-<!-- Profile Picture in Center -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/171373173?v=4" width="150" height="150" style="border-radius: 50%;" alt="Shamika's Profile Picture" />
-</p>
+<!-- Profile Picture -->
+<img src="https://avatars.githubusercontent.com/u/171373173?v=4" width="150" height="150" style="border-radius: 50%;" alt="Shamika's Profile Picture" />
 
 <!-- Greeting Section -->
-<h1 align="center">Hi 👋, I'm Shamika!</h1>
-<h3 align="center">M.S. Information Systems | Data Enthusiast | Cloud Explorer ☁️</h3>
+<h1>Hi 👋, I'm Shamika!</h1>
+<h3>M.S. Information Systems | Data Enthusiast | Cloud Explorer ☁️</h3>
 
 ---
 
@@ -31,11 +27,4 @@
 - 🌱 Currently learning SQL | Python | Power BI | Google Cloud AI
 - ✨ Love blending data with creativity!
 
----
-
-<!-- Optional: You can add other sections like Skills, Projects, etc later -->
-
----
-
-
-
+</div>
