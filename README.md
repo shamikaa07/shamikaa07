@@ -9,22 +9,16 @@
 <h1 align="center">Hi 👋, I'm Shamika</h1>
 <h3 align="center">M.S. Information Systems | Data Analytics Enthusiast | Cloud Explorer ☁️</h3>
 
-<!-- Fake full lilac background -->
-<div align="center" style="background-color: #E6E6FA; padding: 50px 20px; border-radius: 15px;">
+<p align="center">
+  <img src="https://some-fancy-gradient-banner.com" width="100%" />
+</p>
 
-<!-- Profile Picture -->
-<img src="https://avatars.githubusercontent.com/u/171373173?v=4" width="150" height="150" style="border-radius: 50%;" alt="Shamika's Profile Picture" />
+<h1 align="center">Hi, I'm Shamika!</h1>
 
-<!-- Greeting Section -->
-<h1>Hi 👋, I'm Shamika!</h1>
-<h3>M.S. Information Systems | Data Enthusiast | Cloud Explorer ☁️</h3>
+<p align="right">
+  <img src="https://some-right-side-image.com" width="200" />
+</p>
 
----
-
-### 🌸 About Me
-- 🎓 Master's Student at UTA (Graduating May 2025)
-- 📊 Passionate about Data Analytics, BI Dashboards, Cloud Projects
-- 🌱 Currently learning SQL | Python | Power BI | Google Cloud AI
-- ✨ Love blending data with creativity!
-
-</div>
+<p align="left">
+  Building projects with 💻, 📊, ☁️
+</p>
