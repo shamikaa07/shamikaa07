@@ -19,8 +19,6 @@ Ask me about Data Analysis, Business Intelligence, and Sustainable Tech
   <div class="main-section">
     <img src="images/your-photo.png" alt="Shamika's Profile Picture" class="profile-pic">
 
-    <h1>Hi, I'm Shamika! 👋</h1>
-    <p>Welcome to my personal portfolio — where creativity meets technology.</p>
   </div>
 
   <section class="about-me">
