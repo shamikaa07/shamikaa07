@@ -8,14 +8,17 @@
 
 <h1 align="center">Hi 👋, I'm Shamika</h1>
 <h3 align="center">M.S. Information Systems | Data Analytics Enthusiast | Cloud Explorer ☁️</h3>
-<!-- Full lilac background box -->
-<div align="center" style="background-color:#E6E6FA; padding: 100px; border-radius: 10px;">
+<!-- Lilac full background using an image -->
+<p align="center">
+  <img src="https://i.imgur.com/guP7Vnv.png" width="100%" />
+</p>
 
 <!-- Profile Picture Centered -->
-<img src="https://avatars.githubusercontent.com/u/171373173?v=4" width="180" height="180" style="border-radius: 50%;" alt="Shamika's Profile Picture" />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/171373173?v=4" width="180" height="180" style="border-radius: 50%;" alt="Shamika's Profile Picture" />
+</p>
 
-<!-- Greeting -->
-<h1>Hi 👋, I'm Shamika!</h1>
-
-</div>
+<!-- Greeting Message -->
+<h1 align="center">Hi 👋, I'm Shamika!</h1>
+<h3 align="center">M.S. Information Systems | Data & Cloud Enthusiast 💻☁️</h3>
 
