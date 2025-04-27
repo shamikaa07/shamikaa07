@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  Shamika Awasarmol | Portfolio
+  <title>Shamika Awasarmol | Portfolio</title>
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -22,38 +22,31 @@
 
   <section class="education" style="padding: 20px;">
     <h2>🎓 Education</h2>
-    <ul>
-      <li><strong>University of Texas at Arlington • Texas, USA</strong></li>
-      <li>Masters in Information Systems (2023–2025)</li>
-      <li>Relevant Coursework: Python, Project Management, Business Statistics, AI Ethics, Web and Social Analytics, Enterprise Resource Planning, Data Warehousing, Business Intelligence, and Analysis & Design.</li>
-      <br>
-      <li><strong>University of Mumbai • Mumbai, INDIA</strong></li>
-      <li>Bachelor of Engineering in Electronics & Telecommunication Engineering</li>
-    </ul>
+    <p><strong>University of Texas at Arlington • Texas, USA</strong><br>
+    Masters in Information Systems (2023–2025)<br>
+    Relevant Coursework: Python, Project Management, Business Statistics, AI Ethics, Web and Social Analytics, Enterprise Resource Planning, Data Warehousing, Business Intelligence, and Analysis & Design.</p>
+    <br>
+    <p><strong>University of Mumbai • Mumbai, INDIA</strong><br>
+    Bachelor of Engineering in Electronics & Telecommunication Engineering</p>
   </section>
 
   <section class="experience" style="padding: 20px;">
     <h2>💼 Experience</h2>
-    <ul>
-      <li><strong>Basey Insurance • Texas, USA</strong></li>
-      <li>Data Analytics Intern</li>
-      <br>
-      <li><strong>Zycus Infotech • Mumbai, INDIA</strong></li>
-      <li>Business Analyst</li>
-    </ul>
+    <p><strong>Basey Insurance • Texas, USA</strong><br>
+    Data Analytics Intern</p>
+    <br>
+    <p><strong>Zycus Infotech • Mumbai, INDIA</strong><br>
+    Business Analyst</p>
   </section>
 
   <section class="certifications" style="padding: 20px;">
     <h2>🎓 Certifications</h2>
-    <ul>
-      <li>Business Analysis Fundamentals - Microsoft</li>
-      <li>Introduction to Data Analytics - Meta</li>
-      <li>UTA Datathon 2024 - UTA</li>
-      <li>Google Analytics for Beginners - Google</li>
-      <li>The Fundamentals of Digital Marketing - Google</li>
-    </ul>
+    <p>Business Analysis Fundamentals - Microsoft<br>
+    Introduction to Data Analytics - Meta<br>
+    UTA Datathon 2024 - UTA<br>
+    Google Analytics for Beginners - Google<br>
+    The Fundamentals of Digital Marketing - Google</p>
   </section>
-
 
 </body>
 </html>
