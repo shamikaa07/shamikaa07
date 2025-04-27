@@ -16,18 +16,18 @@
 
   <section class="about-me" style="padding: 20px;">
     <h2>About Me</h2>
-    <p>I am passionate about technology, data, creativity, and building meaningful projects. Always learning, always growing!  
-    Currently learning SQL, Python, and Google Cloud AI.  
-    Ask me about Data Analysis, Business Intelligence, and Sustainable Tech!</p>
+    <p>I am passionate about technology, data, creativity, and building meaningful projects. Always learning, always growing!   
+    I bridge the gap between data and business strategy, transforming raw information into actionable insights that fuel business growth, optimize processes, and enhance customer experiences. With a Master’s degree in Information Systems from the University of Texas at Arlington, I bring a strong foundation in data analytics, reporting automation, and business intelligence, leveraging tools like SQL, Tableau, Power BI, and Looker to deliver impactful solutions.</p>
   </section>
 
   <section class="certifications" style="padding: 20px;">
     <h2>🎓 Certifications</h2>
     <ul>
-      <li>Google Data Analytics Professional Certificate</li>
-      <li>AWS Certified Cloud Practitioner</li>
-      <li>Tableau Data Analyst Certification</li>
-      <li>SQL for Data Science - Coursera</li>
+      <li>Business Analysis Fundamentals - Microsoft</li>
+      <li>Introduction to Data Analytics - Meta</li>
+      <li>UTA Datathon 2024 - UTA</li>
+      <li>Google Analytics for Beginners - Google</li>
+      <li>The Fundamentals of Digital Marketing - Google</li>
     </ul>
   </section>
 
