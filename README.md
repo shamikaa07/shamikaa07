@@ -1,11 +1,3 @@
-# Hi there, I'm Shamika!
-
-Master's Student in Information Systems | University of Texas at Arlington  
-I love working on Data Analytics, Dashboards, and Cloud Projects  
-Currently learning SQL, Python, and Google Cloud AI  
-Ask me about Data Analysis, Business Intelligence, and Sustainable Tech  
-'m Shamika!</h1>
-<h3 align="center">M.S. Information Systems | Data Analyst</h3>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,19 +6,23 @@ Ask me about Data Analysis, Business Intelligence, and Sustainable Tech
   <title>Shamika Awasarmol | Portfolio</title>
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-  <div class="main-section">
-    <img src="images/your-photo.png" alt="Shamika's Profile Picture" class="profile-pic">
-
+  <div class="main-section" style="text-align: center; margin-top: 40px;">
+    <h1>Hi there, I'm Shamika!</h1>
+    <h3>M.S. Information Systems | Data Analyst</h3>
+    <img src="images/your-photo.png" alt="Shamika's Profile Picture" class="profile-pic" style="margin-top: 20px;">
   </div>
 
-  <section class="about-me">
+  <section class="about-me" style="padding: 20px;">
     <h2>About Me</h2>
-    <p>I am passionate about technology, data, creativity, and building meaningful projects. Always learning, always growing!</p>
+    <p>I am passionate about technology, data, creativity, and building meaningful projects. Always learning, always growing!  
+    Currently learning SQL, Python, and Google Cloud AI.  
+    Ask me about Data Analysis, Business Intelligence, and Sustainable Tech!</p>
   </section>
 
-  <section class="certifications">
+  <section class="certifications" style="padding: 20px;">
     <h2>🎓 Certifications</h2>
     <ul>
       <li>Google Data Analytics Professional Certificate</li>
@@ -36,9 +32,10 @@ Ask me about Data Analysis, Business Intelligence, and Sustainable Tech
     </ul>
   </section>
 
-  <footer>
+  <footer style="text-align: center; margin-top: 40px; padding: 20px; font-size: 14px;">
     © 2025 Shamika Awasarmol. All rights reserved.
   </footer>
 
 </body>
 </html>
+
