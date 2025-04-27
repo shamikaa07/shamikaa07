@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Shamika Awasarmol | Portfolio</title>
+  Shamika Awasarmol | Portfolio
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -12,7 +12,6 @@
   <div class="main-section" style="text-align: center; margin-top: 40px;">
     <h1>Hi there, I'm Shamika!</h1>
     <h3>M.S. Information Systems | Data Analyst</h3>
-    <img src="images/your-photo.png" alt="Shamika's Profile Picture" class="profile-pic" style="margin-top: 20px;">
   </div>
 
   <section class="about-me" style="padding: 20px;">
