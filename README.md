@@ -54,9 +54,6 @@
     </ul>
   </section>
 
-  <footer style="text-align: center; margin-top: 40px; padding: 20px; font-size: 14px;">
-    © 2025 Shamika Awasarmol. All rights reserved.
-  </footer>
 
 </body>
 </html>
